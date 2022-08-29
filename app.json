@@ -20,7 +20,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "publishBundlePath": "com.moodpic.moodpic"
+      "bundleIdentifier": "com.moodpic.moodpic"
     },
     "android": {
       "package": "com.depromeet_5team.moodpicapp",
