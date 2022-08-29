@@ -23,7 +23,7 @@
       "publishBundlePath": "com.moodpic.moodpic"
     },
     "android": {
-      "package": "com.moodpic.moodpic",
+      "package": "com.depromeet_5team.moodpicapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
