@@ -3,7 +3,7 @@
     "name": "moodpic-app",
     "slug": "moodpic-app",
     "owner": "depromeet_5team",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -23,6 +23,7 @@
       "bundleIdentifier": "kr.moodpic.www"
     },
     "android": {
+      "versionCode": 2,
       "package": "com.depromeet_5team.moodpicapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
