@@ -3,14 +3,14 @@
     "name": "moodpic-app",
     "slug": "moodpic-app",
     "owner": "depromeet_5team",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121212"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,11 +23,11 @@
       "bundleIdentifier": "kr.moodpic.www"
     },
     "android": {
-      "versionCode": 2,
+      "versionCode": 3,
       "package": "com.depromeet_5team.moodpicapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#FFEC3E"
       },
       "permissions" : []
     },
