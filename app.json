@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "moodpic-app",
+    "name": "무드픽",
     "slug": "moodpic-app",
     "owner": "depromeet_5team",
     "version": "1.0.3",
@@ -19,6 +19,7 @@
       "**/*"
     ],
     "ios": {
+      "buildNumber": "1.0.0",
       "supportsTablet": true,
       "bundleIdentifier": "kr.moodpic.www"
     },
@@ -29,10 +30,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFEC3E"
       },
-      "permissions" : []
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c47e3e1c-284c-482e-a005-2ed3ecfe5324"
+      }
     }
   }
 }
