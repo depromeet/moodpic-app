@@ -3,7 +3,7 @@
     "name": "무드픽",
     "slug": "moodpic-app",
     "owner": "depromeet_5team",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
@@ -19,12 +19,12 @@
       "**/*"
     ],
     "ios": {
-      "buildNumber": "1.0.0",
+      "buildNumber": "1.0.4",
       "supportsTablet": true,
       "bundleIdentifier": "kr.moodpic.www"
     },
     "android": {
-      "versionCode": 3,
+      "versionCode": 4,
       "package": "com.depromeet_5team.moodpicapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
